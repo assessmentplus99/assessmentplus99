@@ -1,0 +1,1 @@
+- Welcome to assessmentplus.co.nz github page, this is where snippets of information will be stored, talks, scripts and so fourth. 
